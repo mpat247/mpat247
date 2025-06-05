@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manav</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/manavpat/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavpat/" height="30" width="40" />
-  </a>
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpat247&" alt="mpat247" />
 </p>
 
-<h3 align="left">Tools and technologies I have worked with:</h3>
-<p align="left">
+
+
+<h3 align="center">Tools and technologies I have worked with:</h3>
+<p align="center">
   <!-- LANGUAGES -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -151,6 +152,10 @@
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpat247&" alt="mpat247" />
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/manavpat/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavpat/" height="30" width="40" />
+  </a>
 </p>
